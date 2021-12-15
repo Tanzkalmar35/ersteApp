@@ -1,3 +1,11 @@
 main() {
-  print("Hello World");
+  
+  start()
+
+}
+
+void start() {
+
+  print("Lets go")
+
 }
