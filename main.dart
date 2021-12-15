@@ -1,11 +1,7 @@
 main() {
-  
-  start()
-
+  start();
 }
 
 void start() {
-
-  print("Lets go")
-
+  print("Lets go");
 }
